@@ -1,0 +1,19 @@
+Wymagana instalacja PHP >= 7.0.0, zalecana wersja XAMPP:
+https://www.apachefriends.org/xampp-files/7.2.0/xampp-win32-7.2.0-0-VC15-installer.exe
+
+Dane do bazy danych w pliku .env:
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=dziennik
+DB_USERNAME=root
+DB_PASSWORD=
+
+Adres url w pliku .env:
+APP_URL=http://localhost
+
+Dane do logowania na stronie:
+Email: "admin@admin"
+Has³o: "qwerty"
+
+By przejœæ do strony nale¿y przejœæ do folderu "public".
